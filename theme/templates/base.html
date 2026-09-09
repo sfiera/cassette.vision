@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+  <head>
+    <title>{% block title %}{{ SITENAME|striptags }}{% endblock title %}</title>
+    <meta charset="utf-8" />
+    <meta name="generator" content="Pelican" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="hsl(0, 0%, 40%)">
+    <link rel="icon" href="{{ SITEURL }}/favicon.svg" sizes="any" type="image/svg+xml">
+    <link rel="icon" href="{{ SITEURL }}/favicon.ico" sizes="16x16 32x32" type="image/x-icon">
+    <link rel="apple-touch-icon" href="{{ SITEURL }}/favicon.png">
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygments.css" />
+    {% if page.script %}<script src="{{ SITEURL }}{{ page.script }}"></script>{% endif %}
+  </head>
+
+  <body>
+    <header>
+      <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup>
+      <nav><ul>
+        {% for title, link in MENUITEMS %}
+        <li><a href="{{ link }}">{{ title }}</a></li>
+        {% endfor %}
+      </ul></nav>
+    </header>
+    <main>
+      {% block content %}
+      {% endblock %}
+    </main>
+    <footer>
+      <p>
+        ©{{ NOW | strftime("%Y") }} {{ SITENAME }}
+        (<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>).
+        Powered by <a href="https://getpelican.com/">Pelican</a>.
+        <a href="{{ REPO }}/blob/main/content/{{ page.relative_source_path }}">Page source</a>.
+      </p>
+    </footer>
+  </body>
+</html>
+
