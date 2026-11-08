@@ -6,11 +6,12 @@ SITENAME = os.environ.get("SITENAME", "cassette.vision")
 SITEURL = ""
 REPO = "https://github.com/sfiera/cassette.vision"
 
-PATH = {
+RELPATH = {
     "cassette.vision": "content/cv",
     "super.cassette.vision": "content/scv",
     "pocket.cassette.vision": "content/pcv",
 }[SITENAME]
+PATH = RELPATH
 
 THEME = "theme"
 
