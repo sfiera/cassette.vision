@@ -2,7 +2,7 @@ Titles
 ======
 
 :lang: en
-:slug: title/index
+:slug: title
 
 .. list-table::
    :header-rows: 1

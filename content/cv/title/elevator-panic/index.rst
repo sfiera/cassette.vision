@@ -2,4 +2,4 @@ Elevator Panic
 ==============
 
 :lang: en
-:slug: title/elevator-panic/index
+:slug: title/elevator-panic

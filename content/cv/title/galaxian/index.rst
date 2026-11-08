@@ -2,4 +2,4 @@ Galaxian
 ========
 
 :lang: en
-:slug: title/galaxian/index
+:slug: title/galaxian

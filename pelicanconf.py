@@ -1,11 +1,16 @@
 import datetime
+import os
 
 AUTHOR = "sfiera"
-SITENAME = "cassette.vision"
+SITENAME = os.environ.get("SITENAME", "cassette.vision")
 SITEURL = ""
 REPO = "https://github.com/sfiera/cassette.vision"
 
-PATH = "content/cv"
+PATH = {
+    "cassette.vision": "content/cv",
+    "super.cassette.vision": "content/scv",
+    "pocket.cassette.vision": "content/pcv",
+}[SITENAME]
 
 THEME = "theme"
 
@@ -24,10 +29,23 @@ ARTICLE_PATHS = []
 
 DEFAULT_PAGINATION = False
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = [
-    ("Super Cassette Vision", "https://super.cassette.vision/"),
-    ("Titles", "title"),
-]
+MENUITEMS = {
+    "cassette.vision": [
+        ("Super Cassette Vision", "https://super.cassette.vision/"),
+        ("Game Pocket Computer", "https://pocket.cassette.vision/"),
+        ("Titles", "title"),
+    ],
+    "super.cassette.vision": [
+        ("Cassette Vision", "https://cassette.vision/"),
+        ("Game Pocket Computer", "https://pocket.cassette.vision/"),
+        ("Titles", "title"),
+    ],
+    "pocket.cassette.vision": [
+        ("Cassette Vision", "https://cassette.vision/"),
+        ("Super Cassette Vision", "https://super.cassette.vision/"),
+        ("Titles", "title"),
+    ],
+}[SITENAME]
 
 
 IGNORE_FILES = [".*", "*.rsti"]

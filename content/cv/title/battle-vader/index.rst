@@ -2,4 +2,4 @@ Battle Vader
 ============
 
 :lang: en
-:slug: title/battle-vader/index
+:slug: title/battle-vader

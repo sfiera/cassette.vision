@@ -2,4 +2,4 @@ Baseball
 ========
 
 :lang: en
-:slug: title/baseball/index
+:slug: title/baseball

@@ -2,4 +2,4 @@ Monster Mansion
 ===============
 
 :lang: en
-:slug: title/monster-mansion/index
+:slug: title/monster-mansion
