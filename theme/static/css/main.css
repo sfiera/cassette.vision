@@ -38,3 +38,31 @@ pre {
     white-space: pre-wrap;
 }
 
+img[src$=".png"],
+img[src^="data:image/png"] {
+    image-rendering: pixelated;
+}
+
+.figure {
+    border: thin solid hsl(0, 0%, 40%);
+    border-radius: 0.125em;
+    padding: 0.25em;
+    margin: 0.25em;
+    text-align: center;
+    font-size: 90%;
+}
+
+.figure img, .figure object {
+    max-width: 100%;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
+}
+
+.gallery-small {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(6em, 1fr));
+    font-size: 90%;
+}
