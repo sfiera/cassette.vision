@@ -21,7 +21,7 @@ Titles
    * * 01
      * Astro Wars: Invaders from Space
      * 1984-07
-     * STG
+     * |STG|
      * Epoch
      * 8
      *
@@ -30,7 +30,7 @@ Titles
    * * 02
      * Astro Wars II: Battle in Galaxy
      * 1984-07
-     * STG
+     * |STG|
      * Epoch
      * 8
      *
@@ -39,7 +39,7 @@ Titles
    * * 03
      * Super Golf
      * 1984-07
-     * SPT
+     * |SPT|
      * Epoch
      * 16
      *
@@ -48,7 +48,7 @@ Titles
    * * 04
      * Super Mahjong
      * 1984-07
-     * TBL
+     * |TBL|
      * Epoch
      * 16
      *
@@ -57,7 +57,7 @@ Titles
    * * 05
      * Super Baseball
      * 1984-09
-     * SPT
+     * |SPT|
      * Epoch
      * 16
      *
@@ -66,7 +66,7 @@ Titles
    * * 06
      * Punch Boy
      * 1984-09
-     * ACT
+     * |ACT|
      * Epoch
      * 16
      *
@@ -75,7 +75,7 @@ Titles
    * * 07
      * Elevator Fight
      * 1984-09
-     * ACT
+     * |ACT|
      * Epoch
      * 16
      *
@@ -84,7 +84,7 @@ Titles
    * * 08
      * Lupin III
      * 1984-12
-     * ACT
+     * |ACT|
      * Epoch
      * 16
      *
@@ -93,7 +93,7 @@ Titles
    * * 09
      * Nebula
      * 1984-12
-     * STG
+     * |STG|
      * Epoch
      * 16
      *
@@ -102,7 +102,7 @@ Titles
    * * 10
      * Wheelie Racer
      * 1985-04
-     * RCG
+     * |RCG|
      * Epoch
      * 16
      *
@@ -111,7 +111,7 @@ Titles
    * * 11
      * Boulder Dash
      * 1985-04
-     * PZL
+     * |PZL|
      * First Star
      * 16
      *
@@ -120,7 +120,7 @@ Titles
    * * 12
      * Miner 2049er
      * 1985-05
-     * ACT
+     * |ACT|
      * Big Five
      * 16
      *
@@ -129,7 +129,7 @@ Titles
    * * 13
      * Super Soccer
      * 1985-03
-     * SPT
+     * |SPT|
      * Epoch
      * 16
      *
@@ -138,7 +138,7 @@ Titles
    * * 14
      * Comic Circus
      * 1985-06
-     * ACT
+     * |ACT|
      * Epoch
      * 16
      *
@@ -147,7 +147,7 @@ Titles
    * * 15
      * Milky Princess
      * 1985-07
-     * ETC
+     * |ETC|
      * Epoch
      * 32
      *
@@ -156,7 +156,7 @@ Titles
    * * 16
      * Pop and Chips
      * 1985
-     * PZL
+     * |PZL|
      * Epoch
      * 32
      * 8
@@ -165,7 +165,7 @@ Titles
    * * 17
      * Nekketsu Kung-Fu Road
      * 1985
-     * ACT
+     * |ACT|
      * Epoch
      * 40
      *
@@ -174,7 +174,7 @@ Titles
    * * 18
      * Star Speeder
      * 1985
-     * RCG
+     * |RCG|
      * Epoch
      * 40
      *
@@ -183,7 +183,7 @@ Titles
    * * 19
      * TonTon Ball
      * 1985
-     * ACT
+     * |ACT|
      * Epoch
      * 16
      *
@@ -192,7 +192,7 @@ Titles
    * * 20
      * Super Sansu-Puter
      * 1985
-     * EDU
+     * |EDU|
      * Epoch
      * 32
      *
@@ -201,7 +201,7 @@ Titles
    * * 21
      * Shogi Nyuumon
      * 1985
-     * TBL
+     * |TBL|
      * Epoch
      * 32
      * 8
@@ -210,7 +210,7 @@ Titles
    * * 22
      * Doraemon
      * 1985
-     * ACT
+     * |ACT|
      * Epoch
      * 64
      *
@@ -219,7 +219,7 @@ Titles
    * * 23
      * BASIC Nyuumon
      * 1986
-     * ETC
+     * |ETC|
      * Epoch
      * 32
      * 8
@@ -228,7 +228,7 @@ Titles
    * * 24
      * Dragon Slayer
      * 1986
-     * RPG
+     * |RPG|
      * Falcom
      * 32
      * 8
@@ -237,7 +237,7 @@ Titles
    * * 25
      * Rantou Pro-Wrestling
      * 1986
-     * SPT
+     * |SPT|
      * Epoch
      * 128
      *
@@ -246,7 +246,7 @@ Titles
    * * 26
      * Waiwai Monster Land
      * 1986
-     * ACT
+     * |ACT|
      * Epoch
      * 128
      *
@@ -255,7 +255,7 @@ Titles
    * * 27
      * Dragon Ball
      * 1986-09-27
-     * STG
+     * |STG|
      * Epoch
      * 128
      *
@@ -264,7 +264,7 @@ Titles
    * * 28
      * Mappy
      * 1986
-     * ACT
+     * |ACT|
      * Namco
      * 32
      *
@@ -273,7 +273,7 @@ Titles
    * * 29
      * Sky Kid
      * 1986
-     * STG
+     * |STG|
      * Namco
      * 64
      *
@@ -282,11 +282,11 @@ Titles
    * * 30
      * Pole Position II
      * 1986
-     * RCG
+     * |RCG|
      * Namco
      * 128
      * 4
      * N
      * ¥5,200
 
-.. _Yosaku: {filename}yosaku/index.rst
+.. include:: ../../epilog.rsti

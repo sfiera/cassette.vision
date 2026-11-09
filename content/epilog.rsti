@@ -1,0 +1,37 @@
+.. Genres
+
+.. |ACT| raw:: html
+
+   <abbr title="Action Game">ACT</abbr>
+
+.. |EDU| raw:: html
+
+   <abbr title="Educational Game">EDU</abbr>
+
+.. |ETC| raw:: html
+
+   <abbr title="Other Game">ETC</abbr>
+
+.. |PZL| raw:: html
+
+   <abbr title="Puzzle Game">PZL</abbr>
+
+.. |RCG| raw:: html
+
+   <abbr title="Racing Game">RCG</abbr>
+
+.. |RPG| raw:: html
+
+   <abbr title="Role-Playing Game">RPG</abbr>
+
+.. |SPT| raw:: html
+
+   <abbr title="Sports Game">SPT</abbr>
+
+.. |STG| raw:: html
+
+   <abbr title="Shooting Game">STG</abbr>
+
+.. |TBL| raw:: html
+
+   <abbr title="Tabletop Game">TBL</abbr>

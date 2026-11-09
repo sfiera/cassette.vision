@@ -19,84 +19,84 @@ Titles
    * * 01
      * Yosaku_
      * 1981-07-30
-     * ACT
+     * |ACT|
      * Epoch
      * 777
      * ¥4,980
    * * 02
      * Baseball_
      * 1981-07-30
-     * SPT
+     * |SPT|
      * Epoch
      * 778
      * ¥4,980
    * * 03
      * Galaxian_
      * 1981-08-10
-     * STG
+     * |STG|
      * Namco
      * 777
      * ¥4,980
    * * 04
      * `Big Sports 12`_
      * 1982-06-15
-     * SPT
+     * |SPT|
      * Epoch
      * 777
      * ¥4,980
    * * 05
      * `Battle Vader`_
      * 1982-03-03
-     * STG
+     * |STG|
      * Epoch
      * 774
      * ¥4,980
    * * 06
      * `Pak Pak Monster`_
      * 1982-07-13
-     * ACT
+     * |ACT|
      * Epoch
      * 777
      * ¥4,980
    * * 07
      * `New Baseball`_
      * 1982-06-15
-     * SPT
+     * |SPT|
      * Epoch
      * 777
      * ¥4,980
    * * 08
      * `Monster Mansion`_
      * 1982-10-07
-     * ACT
+     * |ACT|
      * Epoch
      * 777
      * ¥4,980
    * * 09
      * `Astro Command`_
      * 1982-08-03
-     * STG
+     * |STG|
      * Epoch
      * 777
      * ¥4,980
    * * 10
      * `Grand Champion`_
      *
-     * RCG
+     * |RCG|
      * Epoch
      *
      *
    * * 11
      * `Monster Block`_
      * 1984-03-16
-     * PZL
+     * |PZL|
      * Epoch
      * 777
      * ¥4,980
    * * 12
      * `Elevator Panic`_
      * 1984-08-01
-     * ACT
+     * |ACT|
      * Epoch
      * 777
      * ¥3,980
@@ -113,3 +113,5 @@ Titles
 .. _Grand Champion: {filename}grand-champion/index.rst
 .. _Monster Block: {filename}monster-block/index.rst
 .. _Elevator Panic: {filename}elevator-panic/index.rst
+
+.. include:: ../../epilog.rsti
