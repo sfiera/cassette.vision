@@ -61,3 +61,12 @@ Software
       :target: {filename}title/sokoban/index.rst
 
       `Sokoban <{filename}title/sokoban/index.rst>`_
+
+See Also
+--------
+
+* `Cassette Vision`_
+* `Super Cassette Vision`_
+
+.. _Cassette Vision: https://cassette.vision/
+.. _Super Cassette Vision: https://super.cassette.vision/

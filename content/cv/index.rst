@@ -9,3 +9,11 @@ The Epoch_ Cassette Vision was a home video game console released in Japan on Ju
 .. _Epoch: https://en.wikipedia.org/wiki/Epoch_Co.
 .. _11 games: {filename}title/index.rst
 .. _Super Cassette Vision: https://super.cassette.vision/
+
+See Also
+--------
+
+* `Super Cassette Vision`_
+* `Game Pocket Computer`_
+
+.. _Game Pocket Computer: https://pocket.cassette.vision
