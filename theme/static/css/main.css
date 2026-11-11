@@ -1,22 +1,35 @@
 body {
-  font-family: monospace;
+  font-family: sans-serif;
   font-size: 100%;
   background-color: white;
   color: #111;
-  width: 80%;
-  min-width: 400px;
-  min-height: 200px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body > header {
+  background: #111;
+  color: white;
+}
+body > header > div, main, footer {
+  max-width: 40em;
+  margin: 0 auto;
   padding: 1em;
-  margin: 5% 10%;
-  border: thin solid gray;
-  border-radius: 5px;
+}
+.align-center {
   display: block;
+  margin: 0 auto;
 }
 
 a:link    { color: blue; text-decoration: none;      }
 a:hover   { color: blue; text-decoration: underline; }
 a:visited { color: blue;                             }
 
+h1, h2 { text-align: center; }
+h1 { font-size: 200%; margin: 0; }
+h2 { font-size: 300%; margin: 0.25em 0; }
+header a { color: inherit !important }
 h1 a { color: inherit !important }
 h2 a { color: inherit !important }
 h3 a { color: inherit !important }

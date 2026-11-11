@@ -16,13 +16,17 @@
   </head>
 
   <body>
-    <header>
-      <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup>
-      <nav><ul>
-        {% for title, link in MENUITEMS %}
-        <li><a href="{{ link }}">{{ title }}</a></li>
-        {% endfor %}
-      </ul></nav>
+    <header{% if page.color is defined %} style="background: {{ page.color }}"{% endif %}>
+      <div>
+        <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup>
+{% if MENUITEMS %}
+        <nav><ul>
+          {% for title, link in MENUITEMS %}
+          <li><a href="{{ link }}">{{ title }}</a></li>
+          {% endfor %}
+        </ul></nav>
+{% endif %}
+      </div>
     </header>
     <main>
       {% block content %}

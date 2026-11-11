@@ -30,23 +30,7 @@ ARTICLE_PATHS = []
 
 DEFAULT_PAGINATION = False
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = {
-    "cassette.vision": [
-        ("Super Cassette Vision", "https://super.cassette.vision/"),
-        ("Game Pocket Computer", "https://pocket.cassette.vision/"),
-        ("Titles", "title"),
-    ],
-    "super.cassette.vision": [
-        ("Cassette Vision", "https://cassette.vision/"),
-        ("Game Pocket Computer", "https://pocket.cassette.vision/"),
-        ("Titles", "title"),
-    ],
-    "pocket.cassette.vision": [
-        ("Cassette Vision", "https://cassette.vision/"),
-        ("Super Cassette Vision", "https://super.cassette.vision/"),
-        ("Titles", "title"),
-    ],
-}[SITENAME]
+MENUITEMS = []
 
 
 IGNORE_FILES = [".*", "*.rsti"]
