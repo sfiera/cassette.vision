@@ -9,7 +9,6 @@ body {
 }
 
 body > header {
-  background: #111;
   color: white;
 }
 body > header > div, main, footer {
