@@ -16,8 +16,8 @@
   </head>
 
   <body>
-    <header style="background: {{ page.color | default('#111') }}">
-      <div>
+    <div class="top" style="background: {{ page.color | default('#111') }}">
+      <header>
         <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup>
 {% if MENUITEMS %}
         <nav><ul>
@@ -26,20 +26,22 @@
           {% endfor %}
         </ul></nav>
 {% endif %}
-      </div>
-    </header>
-    <main>
-      {% block content %}
-      {% endblock %}
-    </main>
-    <footer>
-      <p>
-        ©{{ NOW | strftime("%Y") }} {{ SITENAME }}
-        (<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>).
-        Powered by <a href="https://getpelican.com/">Pelican</a>.
-        <a href="{{ REPO }}/blob/main/{{ RELPATH }}/{{ page.relative_source_path }}">Page source</a>.
-      </p>
-    </footer>
+      </header>
+    </div>
+    <div class="bottom">
+      <main>
+        {% block content %}
+        {% endblock %}
+      </main>
+      <footer>
+        <p>
+          ©{{ NOW | strftime("%Y") }} {{ SITENAME }}
+          (<a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>).
+          Powered by <a href="https://getpelican.com/">Pelican</a>.
+          <a href="{{ REPO }}/blob/main/{{ RELPATH }}/{{ page.relative_source_path }}">Page source</a>.
+        </p>
+      </footer>
+    </div>
   </body>
 </html>
 
