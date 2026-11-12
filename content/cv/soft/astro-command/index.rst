@@ -7,5 +7,5 @@ Astro Command
 
 .. image:: {static}screen.svg
    :alt: Astro Command
-   :width: 288
+   :width: 304
    :align: center
