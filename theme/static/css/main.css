@@ -33,7 +33,7 @@ body {
   margin: 0 -30px;
 }
 main {
-    overflow: scroll;
+  overflow: auto;
 }
 footer p {
   text-align: center;
