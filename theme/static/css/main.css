@@ -4,33 +4,38 @@ body {
   background-color: white;
   color: #111;
   width: 100%;
-  margin: 0;
-  padding: 0;
-}
-
-.top {
-  color: white;
-}
-.top header, .bottom {
-  max-width: 40em;
   margin: 0 auto;
-  padding: 0.5em;
+  max-width: 40em;
+  padding: 45px 30px;
+  anchor-name: --page;
+  box-sizing: border-box;
 }
-.top header, .bottom {
+body::after {
+  content: "";
   border-width: 60px;
   border-style: solid;
   border-image: url(/theme/border.svg) 25%;
+  position: absolute;
+  top: anchor(--page top);
+  right: anchor(--page right);
+  bottom: anchor(--page bottom);
+  left: anchor(--page left);
+  pointer-events: none;
 }
-.top header {
-  border-bottom-width: 0;
+
+body > header {
+  color: white;
+  anchor-name: --header;
 }
-.bottom {
-  border-top-width: 0;
-}
-.top header {
-}
-.bottom > * {
-  margin: 0 -30px;
+body > header::after {
+  content: "";
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: anchor(--header bottom);
+  background: attr(theme-color type(<color>));
 }
 main {
   overflow: auto;
