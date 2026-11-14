@@ -10,8 +10,8 @@ Astro Command
    :width: 304
    :align: center
 
+* Japanese: アストロ コマンド
 * Index: 9
-* Japanese Title: アストロ コマンド
 * Product Code: 07990
 * Genre: |STG|
 

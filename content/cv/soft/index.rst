@@ -8,13 +8,15 @@ Software Titles
    :header-rows: 1
    :class: datatable
    :widths: auto
+   :align: center
 
    * * #
      * Title
      * Release
      * Gen
-     * Developer
+     * Credit
      * IC
+     * Code
      * MSRP
    * * 01
      * Yosaku_
@@ -22,6 +24,7 @@ Software Titles
      * |ACT|
      * Epoch
      * 777
+     * 07940
      * ¥4,980
    * * 02
      * Baseball_
@@ -29,6 +32,7 @@ Software Titles
      * |SPT|
      * Epoch
      * 778
+     * 07920
      * ¥4,980
    * * 03
      * Galaxian_
@@ -36,6 +40,7 @@ Software Titles
      * |STG|
      * Namco
      * 777
+     * 07950
      * ¥4,980
    * * 04
      * `Big Sports 12`_
@@ -43,6 +48,7 @@ Software Titles
      * |SPT|
      * Epoch
      * 777
+     * 07910
      * ¥4,980
    * * 05
      * `Battle Vader`_
@@ -50,6 +56,7 @@ Software Titles
      * |STG|
      * Epoch
      * 774
+     * 07930
      * ¥4,980
    * * 06
      * `Pak Pak Monster`_
@@ -57,6 +64,7 @@ Software Titles
      * |ACT|
      * Epoch
      * 777
+     * 07960
      * ¥4,980
    * * 07
      * `New Baseball`_
@@ -64,6 +72,7 @@ Software Titles
      * |SPT|
      * Epoch
      * 777
+     * 07980
      * ¥4,980
    * * 08
      * `Monster Mansion`_
@@ -71,6 +80,7 @@ Software Titles
      * |ACT|
      * Epoch
      * 777
+     * 07970
      * ¥4,980
    * * 09
      * `Astro Command`_
@@ -78,6 +88,7 @@ Software Titles
      * |STG|
      * Epoch
      * 777
+     * 07990
      * ¥4,980
    * * 10
      * `Grand Champion`_
@@ -85,6 +96,7 @@ Software Titles
      * |RCG|
      * Epoch
      *
+     * 07850
      *
    * * 11
      * `Monster Block`_
@@ -92,6 +104,7 @@ Software Titles
      * |PZL|
      * Epoch
      * 777
+     * 07890
      * ¥4,980
    * * 12
      * `Elevator Panic`_
@@ -99,6 +112,7 @@ Software Titles
      * |ACT|
      * Epoch
      * 777
+     * 07870
      * ¥3,980
 
 .. _Yosaku: {filename}yosaku/index.rst
