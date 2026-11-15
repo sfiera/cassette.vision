@@ -44,7 +44,7 @@ footer p {
   text-align: center;
   margin-bottom: 0;
 }
-object.align-center {
+img.align-center, object.align-center {
   display: block;
 }
 .align-center {

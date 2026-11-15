@@ -17,12 +17,19 @@ Software Titles
      * Code
      * Size
    * *
-     * `Built-in Functions`_
+     * `Puzzle Game`_
      * 1984-09
      * |ETC|
      * Epoch
      *
-     * 1 kiB
+     *
+   * *
+     * `Graphics Tool`_
+     * 1984-09
+     * |ETC|
+     * Epoch
+     *
+     *
    * * 01
      * `Astro Bomber`_
      * 1984-09
@@ -59,7 +66,8 @@ Software Titles
      * 36350
      * 8 kiB
 
-.. _Built-in Functions: {filename}builtin/index.rst
+.. _Puzzle Game: {filename}puzzle-game/index.rst
+.. _Graphics Tool: {filename}graphics-tool/index.rst
 .. _Astro Bomber: {filename}astro-bomber/index.rst
 .. _Block Maze: {filename}block-maze/index.rst
 .. _Mahjongg: {filename}mahjongg/index.rst
