@@ -5,6 +5,7 @@ Doraemon
 :slug: soft/doraemon
 :color: #1f5f66
 
+* Japanese: ドラえもん
 * Index: 22
 * Release: 1985
 * Genre: |ACT|

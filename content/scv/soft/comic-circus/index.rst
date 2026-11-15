@@ -5,6 +5,7 @@ Comic Circus
 :slug: soft/comic-circus
 :color: #7cb794
 
+* Japanese: コミックサーカス
 * Index: 14
 * Release: 1985-06
 * Genre: |ACT|

@@ -5,7 +5,7 @@ Elevator Panic
 :slug: soft/elevator-panic
 :color: #8eddfc
 
-* Japanese: ビッグスポーツ12
+* Japanese: エレベーター パニック
 * Index: 12
 * Product Code: 07870
 * Genre: |ACT|

@@ -5,6 +5,7 @@ Shogi Nyuumon
 :slug: soft/shogi-nyuumon
 :color: #cc8740
 
+* Japanese: 将棋入門
 * Index: 21
 * Release: 1985
 * Genre: |TBL|

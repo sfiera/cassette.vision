@@ -5,6 +5,7 @@ Kung Fu Road
 :slug: soft/kung-fu-road
 :color: #8e8ebb
 
+* Japanese: 熱血カンフーロード
 * Index: 17
 * Release: 1985
 * Genre: |ACT|

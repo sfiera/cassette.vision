@@ -5,6 +5,7 @@ Star Speeder
 :slug: soft/star-speeder
 :color: #6ebdc4
 
+* Japanese: スタースピーダー
 * Index: 18
 * Release: 1985
 * Genre: |RCG|

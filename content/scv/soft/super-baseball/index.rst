@@ -5,6 +5,7 @@ Super Baseball
 :slug: soft/super-baseball
 :color: #43872f
 
+* Japanese: スーパーベースボール
 * Index: 05
 * Release: 1984-09
 * Genre: |SPT|

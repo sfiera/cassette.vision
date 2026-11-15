@@ -5,6 +5,7 @@ Rantou Pro Wrestling
 :slug: soft/pro-wrestling
 :color: #73143b
 
+* Japanese: 乱闘プロレス
 * Index: 25
 * Release: 1986
 * Genre: |SPT|

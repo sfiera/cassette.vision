@@ -5,6 +5,7 @@ Pole Position II
 :slug: soft/pole-position-ii
 :color: #0169ac
 
+* Japanese: ポールポジションII
 * Index: 30
 * Release: 1986
 * Genre: |RCG|

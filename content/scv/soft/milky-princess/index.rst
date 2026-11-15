@@ -5,6 +5,7 @@ Milky Princess
 :slug: soft/milky-princess
 :color: #ff96c7
 
+* Japanese: ルネ・ヴァン・ダールの星占い ミルキープリンセス
 * Index: 15
 * Release: 1985-07
 * Genre: |ETC|

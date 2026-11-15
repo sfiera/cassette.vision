@@ -5,6 +5,7 @@ Mappy
 :slug: soft/mappy
 :color: #cce0b4
 
+* Japanese: マッピー
 * Index: 28
 * Release: 1986
 * Genre: |ACT|

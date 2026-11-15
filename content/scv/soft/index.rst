@@ -20,7 +20,7 @@ Software Titles
      * Code
      * MSRP
    * * 01
-     * `Astro Wars: Invaders from Space <{filename}astro-wars/index.rst>`_
+     * `Astro Wars <{filename}astro-wars/index.rst>`_
      * 1984-07
      * |STG|
      * Epoch

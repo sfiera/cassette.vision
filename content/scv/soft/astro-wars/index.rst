@@ -1,10 +1,11 @@
-Astro Wars: Invaders from Space
-===============================
+Astro Wars
+==========
 
 :lang: en
 :slug: soft/astro-wars
 :color: #9f122a
 
+* Japanese: アストロウォーズ
 * Index: 01
 * Release: 1984-07
 * Genre: |STG|

@@ -5,6 +5,7 @@ Ton Ton Ball
 :slug: soft/ton-ton-ball
 :color: #e0a8cf
 
+* Japanese: トントンボール
 * Index: 19
 * Release: 1985
 * Genre: |ACT|

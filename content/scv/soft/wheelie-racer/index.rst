@@ -5,6 +5,7 @@ Wheelie Racer
 :slug: soft/wheelie-racer
 :color: #e7292f
 
+* Japanese: ウィリーレーサー
 * Index: 10
 * Release: 1985-04
 * Genre: |RCG|

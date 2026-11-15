@@ -5,6 +5,7 @@ Astro Wars II: Battle in Galaxy
 :slug: soft/astro-wars-ii
 :color: #326688
 
+* Japanese: アストロウォーズII バトル イン ギャラクシー
 * Index: 02
 * Release: 1984-07
 * Genre: |STG|

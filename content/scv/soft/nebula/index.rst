@@ -5,6 +5,7 @@ Nebula
 :slug: soft/nebula
 :color: #141416
 
+* Japanese: ネビュラ
 * Index: 09
 * Release: 1984-12
 * Genre: |STG|

@@ -5,6 +5,7 @@ Dragon Slayer
 :slug: soft/dragon-slayer
 :color: #004139
 
+* Japanese: ドラゴンスレイヤー
 * Index: 24
 * Release: 1986
 * Genre: |RPG|

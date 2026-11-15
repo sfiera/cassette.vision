@@ -5,6 +5,7 @@ Super Sansu-puter
 :slug: soft/super-sansu-puter
 :color: #efd335
 
+* Japanese: スーパーサンスーピューター
 * Index: 20
 * Release: 1985
 * Genre: |EDU|

@@ -5,6 +5,7 @@ Punch Boy
 :slug: soft/punch-boy
 :color: #f7742a
 
+* Japanese: パンチボーイ
 * Index: 06
 * Release: 1984-09
 * Genre: |ACT|

@@ -5,6 +5,7 @@ Pop & Chips
 :slug: soft/pop-n-chips
 :color: #22c793
 
+* Japanese: ポップ＆チップス
 * Index: 16
 * Release: 1985
 * Genre: |PZL|

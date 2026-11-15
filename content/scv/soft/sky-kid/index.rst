@@ -5,6 +5,7 @@ Sky Kid
 :slug: soft/sky-kid
 :color: #e4968e
 
+* Japanese: スカイキッド
 * Index: 29
 * Release: 1986
 * Genre: |STG|

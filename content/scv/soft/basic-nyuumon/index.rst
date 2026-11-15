@@ -5,6 +5,7 @@ Basic Nyuumon
 :slug: soft/basic-nyuumon
 :color: #faf9f0
 
+* Japanese: ベーシック入門
 * Index: 23
 * Release: 1986
 * Genre: |ETC|

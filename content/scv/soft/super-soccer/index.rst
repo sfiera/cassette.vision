@@ -5,6 +5,7 @@ Super Soccer
 :slug: soft/super-soccer
 :color: #9a8f16
 
+* Japanese: スーパーサッカー
 * Index: 13
 * Release: 1985-03
 * Genre: |SPT|

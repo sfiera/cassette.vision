@@ -5,6 +5,7 @@ Miner 2049er
 :slug: soft/miner-2049er
 :color: #5a3430
 
+* Japanese: マイナー2049
 * Index: 12
 * Release: 1985-05
 * Genre: |ACT|

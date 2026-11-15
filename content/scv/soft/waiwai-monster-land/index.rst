@@ -5,6 +5,7 @@ Waiwai Monster Land
 :slug: soft/waiwai-monster-land
 :color: #a09785
 
+* Japanese: ワイワイモンスターランド
 * Index: 26
 * Release: 1986
 * Genre: |ACT|

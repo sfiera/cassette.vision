@@ -5,6 +5,7 @@ Lupin III
 :slug: soft/lupin-iii
 :color: #bf505d
 
+* Japanese: ルパン三世
 * Index: 08
 * Release: 1984-12
 * Genre: |ACT|

@@ -5,6 +5,7 @@ Boulder Dash
 :slug: soft/boulder-dash
 :color: #025270
 
+* Japanese: バルダーダッシュ
 * Index: 11
 * Release: 1985-04
 * Genre: |PZL|

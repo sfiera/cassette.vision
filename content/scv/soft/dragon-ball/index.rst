@@ -5,6 +5,7 @@ Dragon Ball
 :slug: soft/dragon-ball
 :color: #026f84
 
+* Japanese: DRAGON BALL ドラゴン大秘境
 * Index: 27
 * Release: 1986-09-27
 * Genre: |STG|

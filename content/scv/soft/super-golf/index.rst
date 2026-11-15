@@ -5,6 +5,7 @@ Super Golf
 :slug: soft/super-golf
 :color: #f5b33f
 
+* Japanese: スーパーゴルフ
 * Index: 03
 * Release: 1984-07
 * Genre: |SPT|
