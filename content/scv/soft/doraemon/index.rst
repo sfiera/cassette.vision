@@ -1,0 +1,4 @@
+Doraemon
+========
+
+:slug: soft/doraemon
