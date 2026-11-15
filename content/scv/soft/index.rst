@@ -50,7 +50,7 @@ Software Titles
      * 09050
      * ¥3,800
    * * 04
-     * Super Mahjong
+     * Super Mahjongg
      * 1984-07
      * |TBL|
      * Epoch
