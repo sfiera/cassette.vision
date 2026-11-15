@@ -10,7 +10,7 @@ body {
   anchor-name: --page;
   box-sizing: border-box;
 }
-body::after {
+body.cv::after {
   content: "";
   border-width: 60px;
   border-style: solid;

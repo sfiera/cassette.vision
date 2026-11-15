@@ -14,6 +14,11 @@ RELPATH = {
 PATH = RELPATH
 
 THEME = "theme"
+BODY_CLASS = {
+    "cassette.vision": "cv",
+    "super.cassette.vision": "scv",
+    "pocket.cassette.vision": "pcv",
+}[SITENAME]
 
 TIMEZONE = "Asia/Tokyo"
 

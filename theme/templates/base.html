@@ -15,7 +15,7 @@
     {% if page.script %}<script src="{{ SITEURL }}{{ page.script }}"></script>{% endif %}
   </head>
 
-  <body>
+  <body class="{{ BODY_CLASS }}">
     <header theme-color="{{ page.color | default('#111') }}">
       <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup>
 {% if MENUITEMS %}
