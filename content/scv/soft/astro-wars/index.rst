@@ -3,6 +3,7 @@ Astro Wars: Invaders from Space
 
 :lang: en
 :slug: soft/astro-wars
+:color: #9f122a
 
 * Index: 01
 * Release: 1984-07

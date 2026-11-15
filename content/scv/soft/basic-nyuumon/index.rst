@@ -3,6 +3,7 @@ Basic Nyuumon
 
 :lang: en
 :slug: soft/basic-nyuumon
+:color: #faf9f0
 
 * Index: 23
 * Release: 1986

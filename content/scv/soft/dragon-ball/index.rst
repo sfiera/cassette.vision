@@ -3,6 +3,7 @@ Dragon Ball
 
 :lang: en
 :slug: soft/dragon-ball
+:color: #026f84
 
 * Index: 27
 * Release: 1986-09-27

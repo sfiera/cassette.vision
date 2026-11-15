@@ -3,6 +3,7 @@ Super Soccer
 
 :lang: en
 :slug: soft/super-soccer
+:color: #9a8f16
 
 * Index: 13
 * Release: 1985-03

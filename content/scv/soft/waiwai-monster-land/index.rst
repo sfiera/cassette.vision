@@ -3,6 +3,7 @@ Waiwai Monster Land
 
 :lang: en
 :slug: soft/waiwai-monster-land
+:color: #a09785
 
 * Index: 26
 * Release: 1986

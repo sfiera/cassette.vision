@@ -3,6 +3,7 @@ Pole Position II
 
 :lang: en
 :slug: soft/pole-position-ii
+:color: #0169ac
 
 * Index: 30
 * Release: 1986

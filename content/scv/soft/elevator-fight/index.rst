@@ -3,6 +3,7 @@ Elevator Fight
 
 :lang: en
 :slug: soft/elevator-fight
+:color: #cecbae
 
 * Index: 07
 * Release: 1984-09

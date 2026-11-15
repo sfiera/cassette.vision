@@ -3,6 +3,7 @@ Comic Circus
 
 :lang: en
 :slug: soft/comic-circus
+:color: #7cb794
 
 * Index: 14
 * Release: 1985-06

@@ -3,6 +3,7 @@ Astro Wars II: Battle in Galaxy
 
 :lang: en
 :slug: soft/astro-wars-ii
+:color: #326688
 
 * Index: 02
 * Release: 1984-07

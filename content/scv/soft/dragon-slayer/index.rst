@@ -3,6 +3,7 @@ Dragon Slayer
 
 :lang: en
 :slug: soft/dragon-slayer
+:color: #004139
 
 * Index: 24
 * Release: 1986

@@ -3,6 +3,7 @@ Super Sansu-puter
 
 :lang: en
 :slug: soft/super-sansu-puter
+:color: #efd335
 
 * Index: 20
 * Release: 1985

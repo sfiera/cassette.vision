@@ -3,6 +3,7 @@ Kung Fu Road
 
 :lang: en
 :slug: soft/kung-fu-road
+:color: #8e8ebb
 
 * Index: 17
 * Release: 1985

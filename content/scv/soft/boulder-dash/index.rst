@@ -3,6 +3,7 @@ Boulder Dash
 
 :lang: en
 :slug: soft/boulder-dash
+:color: #025270
 
 * Index: 11
 * Release: 1985-04

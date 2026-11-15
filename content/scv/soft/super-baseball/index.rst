@@ -3,6 +3,7 @@ Super Baseball
 
 :lang: en
 :slug: soft/super-baseball
+:color: #43872f
 
 * Index: 05
 * Release: 1984-09

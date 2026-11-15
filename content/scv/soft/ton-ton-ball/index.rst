@@ -3,6 +3,7 @@ Ton Ton Ball
 
 :lang: en
 :slug: soft/ton-ton-ball
+:color: #e0a8cf
 
 * Index: 19
 * Release: 1985

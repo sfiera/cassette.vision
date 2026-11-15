@@ -3,6 +3,7 @@ Wheelie Racer
 
 :lang: en
 :slug: soft/wheelie-racer
+:color: #e7292f
 
 * Index: 10
 * Release: 1985-04

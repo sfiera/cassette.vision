@@ -3,6 +3,7 @@ Punch Boy
 
 :lang: en
 :slug: soft/punch-boy
+:color: #f7742a
 
 * Index: 06
 * Release: 1984-09

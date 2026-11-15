@@ -3,6 +3,7 @@ Miner 2049er
 
 :lang: en
 :slug: soft/miner-2049er
+:color: #5a3430
 
 * Index: 12
 * Release: 1985-05

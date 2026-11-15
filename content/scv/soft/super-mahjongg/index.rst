@@ -3,6 +3,7 @@ Super Mahjongg
 
 :lang: en
 :slug: soft/super-mahjongg
+:color: #2c2d2f
 
 * Index: 04
 * Release: 1984-07

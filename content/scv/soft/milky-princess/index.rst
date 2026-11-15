@@ -3,6 +3,7 @@ Milky Princess
 
 :lang: en
 :slug: soft/milky-princess
+:color: #ff96c7
 
 * Index: 15
 * Release: 1985-07

@@ -3,6 +3,7 @@ Star Speeder
 
 :lang: en
 :slug: soft/star-speeder
+:color: #6ebdc4
 
 * Index: 18
 * Release: 1985

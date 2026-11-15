@@ -3,6 +3,7 @@ Sky Kid
 
 :lang: en
 :slug: soft/sky-kid
+:color: #e4968e
 
 * Index: 29
 * Release: 1986

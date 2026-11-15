@@ -3,6 +3,7 @@ Mappy
 
 :lang: en
 :slug: soft/mappy
+:color: #cce0b4
 
 * Index: 28
 * Release: 1986

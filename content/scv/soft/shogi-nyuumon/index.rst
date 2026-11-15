@@ -3,6 +3,7 @@ Shogi Nyuumon
 
 :lang: en
 :slug: soft/shogi-nyuumon
+:color: #cc8740
 
 * Index: 21
 * Release: 1985

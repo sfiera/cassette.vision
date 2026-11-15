@@ -3,6 +3,7 @@ Lupin III
 
 :lang: en
 :slug: soft/lupin-iii
+:color: #bf505d
 
 * Index: 08
 * Release: 1984-12

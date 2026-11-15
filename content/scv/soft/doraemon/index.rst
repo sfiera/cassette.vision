@@ -3,6 +3,7 @@ Doraemon
 
 :lang: en
 :slug: soft/doraemon
+:color: #1f5f66
 
 * Index: 22
 * Release: 1985
