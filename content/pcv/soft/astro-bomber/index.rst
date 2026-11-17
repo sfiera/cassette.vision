@@ -4,7 +4,7 @@ Astro Bomber
 :lang: en
 :slug: soft/astro-bomber
 
-.. image:: {static}screen.png
+.. image:: {static}screen.svg
    :alt: Astro Bomber
    :width: 340
    :align: center
