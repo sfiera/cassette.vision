@@ -4,7 +4,7 @@ Sokoban
 :lang: en
 :slug: soft/sokoban
 
-.. image:: {static}screen.png
+.. image:: {static}screen.svg
    :alt: Sokoban
    :width: 340
    :align: center

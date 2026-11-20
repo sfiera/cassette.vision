@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+                   "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 85 74">
+  <style>
+    .black { fill: black }
+    .white { fill: white }
+    .yellow { fill: #ffd400 }
+  </style>
+  <path d="M80,0a5,5 0,0,1 5,5v64a5,5 0,0,1 -5,5h-75a5,5 0,0,1 -5,-5v-64a5,5 0,0,1 5,-5z" class="black"/>
+  <path d="M80,1a4,4 0,0,1 4,4v64a4,4 0,0,1 -4,4h-75a4,4 0,0,1 -4,-4v-64a4,4 0,0,1 4,-4z" class="yellow"/>
+  <path d="M80,2a3,3 0,0,1 3,3v64a3,3 0,0,1 -3,3h-75a3,3 0,0,1 -3,-3v-64a3,3 0,0,1 3,-3z" class="black"/>
+  <path d="M80,3a2,2 0,0,1 2,2v64a2,2 0,0,1 -2,2h-75a2,2 0,0,1 -2,-2v-64a2,2 0,0,1 2,-2z" class="white"/>
+  <path d="M9,19h24v4h8v8h4v-4h8v-4h24v28h-24v-8h-4v12h-32v-12h-8zm4,4v16h8v12h24v-12h12v8h16v-20h-16v8h-4v-4h-4v4h-12v-8h-8v-4zm4,4h4v8h-4z" class="black"/>
+  <path d="M66,28h2v2h-2z" class="black"/>
+  <path d="M70,28h2v2h-2z" class="black"/>
+  <path d="M66,32h2v2h-2z" class="black"/>
+  <path d="M70,32h2v2h-2z" class="black"/>
+  <path d="M62,36h2v2h-2z" class="black"/>
+  <path d="M66,36h2v2h-2z" class="black"/>
+  <path d="M70,36h2v2h-2z" class="black"/>
+  <path d="M66,40h2v2h-2z" class="black"/>
+  <path d="M70,40h2v2h-2z" class="black"/>
+  <path d="M66,44h2v2h-2z" class="black"/>
+  <path d="M70,44h2v2h-2z" class="black"/>
+  <path d="M30,27h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M30,31h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M22,35h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M26,35h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M30,35h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M46,35h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M30,39h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M42,39h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M22,43h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M30,43h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M38,43h2v1h1v2h-1v1h-2v-1h-1v-2h1zm0,1v2h2v-2z" class="black"/>
+  <path d="M62,31h2v1h1v1h-1v1h1v1h-1v-1h-2v1h-1v-1h1v-1h-1v-1h1z" class="black"/>
+</svg>

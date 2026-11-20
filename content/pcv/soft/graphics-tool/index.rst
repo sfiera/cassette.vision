@@ -4,7 +4,7 @@ Graphics Tool
 :lang: en
 :slug: soft/graphics-tool
 
-.. image:: {static}screen.png
+.. image:: {static}screen.svg
    :alt: Graphics Tool
    :width: 340
    :align: center

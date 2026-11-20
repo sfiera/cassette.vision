@@ -4,7 +4,7 @@ Mahjongg
 :lang: en
 :slug: soft/mahjongg
 
-.. image:: {static}screen.png
+.. image:: {static}screen.svg
    :alt: Mahjongg
    :width: 340
    :align: center

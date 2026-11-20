@@ -4,7 +4,7 @@ Reversi
 :lang: en
 :slug: soft/reversi
 
-.. image:: {static}screen.png
+.. image:: {static}screen.svg
    :alt: Reversi
    :width: 340
    :align: center

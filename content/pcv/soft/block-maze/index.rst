@@ -4,7 +4,7 @@ Block Maze
 :lang: en
 :slug: soft/block-maze
 
-.. image:: {static}screen.png
+.. image:: {static}screen.svg
    :alt: Block Maze
    :width: 340
    :align: center
