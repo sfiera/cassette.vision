@@ -116,8 +116,10 @@ table {
 
 th, td {
     padding: 0.25em;
-    border: thin solid gray;
+    border: thin solid #666;
 }
-th {
-    background: lightgray;
-}
+th { background: #ccc; }
+td { background: white; }
+
+.pcv { background: #ccc; }
+.pcv h1 { color: #da1; }

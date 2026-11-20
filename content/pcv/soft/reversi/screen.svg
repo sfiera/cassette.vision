@@ -5,7 +5,7 @@
   <style>
     .black { fill: black }
     .white { fill: white }
-    .yellow { fill: #ffd400 }
+    .yellow { fill: #da1 }
   </style>
   <path d="M80,0a5,5 0,0,1 5,5v64a5,5 0,0,1 -5,5h-75a5,5 0,0,1 -5,-5v-64a5,5 0,0,1 5,-5z" class="black"/>
   <path d="M80,1a4,4 0,0,1 4,4v64a4,4 0,0,1 -4,4h-75a4,4 0,0,1 -4,-4v-64a4,4 0,0,1 4,-4z" class="yellow"/>

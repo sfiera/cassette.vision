@@ -8,6 +8,7 @@ Software Titles
    :header-rows: 1
    :class: datatable
    :widths: auto
+   :align: center
 
    * * #
      * Title
