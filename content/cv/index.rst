@@ -10,6 +10,12 @@ The Epoch_ Cassette Vision was a home video game console released in Japan on Ju
 .. _11 games: {filename}soft/index.rst
 .. _Super Cassette Vision: https://super.cassette.vision/
 
+Sections
+--------
+
+* `Software <{filename}soft/index.rst>`_
+* `Technology <{filename}tech/index.rst>`_
+
 See Also
 --------
 

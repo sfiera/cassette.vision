@@ -9,6 +9,12 @@ The Epoch_ Game Pocket Computer (Game Pokekon) was a handheld video game console
 .. _Epoch: https://en.wikipedia.org/wiki/Epoch_Co.
 .. _5 games: {filename}soft/index.rst
 
+Sections
+--------
+
+* `Software <{filename}soft/index.rst>`_
+* `Technology <{filename}tech/index.rst>`_
+
 See Also
 --------
 

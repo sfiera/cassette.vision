@@ -120,6 +120,10 @@ th, td {
 }
 th { background: #ccc; }
 td { background: white; }
+.footnote td {
+   border: 0;
+   font-size: 90%;
+}
 
 .pcv { background: #ccc; }
 .pcv h1 { color: #da1; }

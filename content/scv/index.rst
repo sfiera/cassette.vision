@@ -9,6 +9,12 @@ The Epoch_ Super Cassette Vision was a home video game console released in Japan
 .. _Epoch: https://en.wikipedia.org/wiki/Epoch_Co.
 .. _30 games: {filename}soft/index.rst
 
+Sections
+--------
+
+* `Software <{filename}soft/index.rst>`_
+* `Technology <{filename}tech/index.rst>`_
+
 See Also
 --------
 
