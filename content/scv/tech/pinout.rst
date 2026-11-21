@@ -165,4 +165,121 @@ Signal descriptions
   * SI: serial data input to console
   * SO: serial data output from console
 
+AV Connector
+------------
+
+Circular DIN 8P-270 connector
+
+.. list-table::
+   :header-rows: 1
+   :widths: auto
+
+   * * #
+     * Use
+   * * 1
+     * Audio (mono)
+   * * 2
+     * Gnd
+   * * 3
+     * +5V
+   * * 4
+     * nc
+   * * 5
+     * Sync (composite)
+   * * 6
+     * Green
+   * * 7
+     * Red
+   * * 8
+     * Blue
+
+Key Matrix
+----------
+
+.. list-table::
+   :header-rows: 1
+   :stub-columns: 1
+
+   * *
+     * PA0
+     * PA1
+     * PA2
+     * PA3
+     * PA4
+     * PA5
+     * PA6
+     * PA7
+   * * PB0
+     * 1L
+     * 1D
+     *
+     *
+     *
+     *
+     *
+     *
+   * * PB1
+     * 1U
+     * 1R
+     *
+     *
+     *
+     *
+     *
+     *
+   * * PB2
+     * 1A
+     * 1B
+     *
+     *
+     *
+     *
+     *
+     *
+   * * PB3
+     * 2L
+     * 2D
+     *
+     *
+     *
+     *
+     *
+     *
+   * * PB4
+     * 2U
+     * 2R
+     *
+     *
+     *
+     *
+     *
+     *
+   * * PB5
+     * 2A
+     * 2B
+     *
+     *
+     *
+     *
+     *
+     *
+   * * PB6
+     *
+     *
+     * K0
+     * K2
+     * K4
+     * K6
+     * K8
+     * CL
+   * * PB7
+     *
+     *
+     * K1
+     * K3
+     * K5
+     * K7
+     * K9
+     * EN
+
 .. include:: ../../epilog.rsti
