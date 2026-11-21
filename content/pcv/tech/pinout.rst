@@ -129,4 +129,30 @@ Signal descriptions
   * SI: serial data input to console
   * SO: serial data output from console
 
+Key Matrix
+----------
+
+.. list-table::
+   :header-rows: 1
+   :stub-columns: 1
+
+   * *
+     * PA6
+     * PA7
+   * * PC0
+     * Up
+     * Down
+   * * PC1
+     * Left
+     * Right
+   * * PC2
+     * Select
+     * Start
+   * * PC3
+     * Button 1
+     * Button 2
+   * * PC4
+     * Button 3
+     * Button 4
+
 .. include:: ../../epilog.rsti
