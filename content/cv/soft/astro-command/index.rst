@@ -28,9 +28,9 @@ Controls
 
 The game controls are:
 
-* Lever (either): move ship up (left) or down (right)
-* Button 1 or 3: fire missile
-* Button 2 or 4: move ship right. Without this, the ship will remain stationary with respect to the background.
+* Lever 1 or 2: move ship up (left) or down (right)
+* Push 1 or 3: fire missile
+* Push 2 or 4: move ship right. Without this, the ship will remain stationary with respect to the background.
 * Start: begin game (outside game) or reset game (during game)
 * Select: switch between mode 1 (beginner, 6 lives) or mode 2 (advanced, 4 lives)
 

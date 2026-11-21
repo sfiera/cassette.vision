@@ -166,6 +166,7 @@ Key Matrix
 .. list-table::
    :header-rows: 1
    :stub-columns: 1
+   :widths: auto
 
    * *
      * /SB
@@ -180,14 +181,14 @@ Key Matrix
      *
      * Slide 1 [#jr]_
    * * /K2
-     * J2 Right [#jr]_
-     * J1 Right
+     * Lever 2 Right [#jr]_
+     * Lever 1 Right
      *
      *
      * Slide 2 [#jr]_
    * * /K3
-     * J2 Left [#jr]_
-     * J1 Left
+     * Lever 2 Left [#jr]_
+     * Lever 1 Left
      *
      *
      * Slide 3 [#jr]_
@@ -206,14 +207,14 @@ Key Matrix
    * * /K6
      *
      *
-     * Btn 4
-     * Btn 2
+     * Push 4
+     * Push 2
      *
    * * /K7
      *
      *
-     * Btn 3
-     * Btn 1
+     * Push 3
+     * Push 1
      *
 
 .. [#jr] Not present on Cassette Vision Jr.
