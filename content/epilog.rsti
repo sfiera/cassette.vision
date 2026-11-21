@@ -35,3 +35,9 @@
 .. |TBL| raw:: html
 
    <abbr title="Tabletop Game">TBL</abbr>
+
+.. |PWR| replace:: ⎓
+.. |GND| replace:: ⏚
+.. |IN| replace:: ←
+.. |OUT| replace:: →
+.. |IO| replace:: ↔︎

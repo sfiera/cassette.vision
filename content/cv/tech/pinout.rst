@@ -4,6 +4,8 @@ Pinouts
 :lang: en
 :slug: tech/pinout
 
+.. contents:: Table of Contents
+
 Cartridge
 ---------
 
@@ -12,85 +14,151 @@ Cartridge
    :widths: auto
 
    * * #
+     * Dir
      * Use
      * #
+     * Dir
      * Use
    * * A1
-     * CLOCK
+     * |PWR|
+     * +6V
      * B1
-     * VDD
+     * |OUT|
+     * CLK
    * * A2
-     * PD1
+     * |PWR|
+     * +6V
      * B2
-     * VDD
+     * |OUT|
+     * PD1
    * * A3
-     * PD2
+     * |IN|
+     * PE1
      * B3
-     * VDD
+     * |OUT|
+     * PD2
    * * A4
-     * PD3
+     * |IN|
+     * PE2
      * B4
-     * VDD
+     * |OUT|
+     * PD3
    * * A5
-     * PD4
+     * |IN|
+     * PE3
      * B5
-     * VDD
+     * |OUT|
+     * PD4
    * * A6
-     * Gnd
+     * |IN|
+     * PE4
      * B6
-     * VDD
+     * |IN|
+     * /GE
    * * A7
-     * /GP
+     * |IN|
+     * PE
      * B7
-     * VDD
+     * |OUT|
+     * /GX
    * * A8
-     * /GP&SW
-     * B8
+     * |IN|
      * /SB
+     * B8
+     * |OUT|
+     * /GP
    * * A9
-     * /K7
-     * B9
+     * |IN|
      * /S1
+     * B9
+     * |OUT|
+     * /K7
    * * A10
-     * /K6
-     * B10
+     * |IN|
      * /SC
+     * B10
+     * |OUT|
+     * /K6
    * * A11
-     * /K5
-     * B11
+     * |IN|
      * /S2
+     * B11
+     * |OUT|
+     * /K5
    * * A12
-     * /K4
-     * B12
+     * |IN|
      * /SA
+     * B12
+     * |OUT|
+     * /K4
    * * A13
-     * /K3
-     * B13
+     * |IN|
      * VIDEO
+     * B13
+     * |OUT|
+     * /K3
    * * A14
-     * /K2
-     * B14
+     * |IN|
      * B-Y
+     * B14
+     * |OUT|
+     * /K2
    * * A15
-     * /K1
-     * B15
+     * |IN|
      * REF
+     * B15
+     * |OUT|
+     * /K1
    * * A16
-     * Gnd
-     * B16
+     * |IN|
      * R-Y
+     * B16
+     * |GND|
+     * Gnd
    * * A17
-     * Gnd
-     * B17
+     * |IN|
      * SOUND
-   * * A18
+     * B17
+     * |GND|
      * Gnd
-     * B18
+   * * A18
+     * |IN|
      * CHROMA
+     * B18
+     * |GND|
+     * Gnd
 
-Signal descriptions:
+Signal descriptions
+```````````````````
 
-* VDD: power
+* VDD: +6V power from console
+* Gnd: ground
+* CLK: 3.579545 Mhz clock from console (NTSC color burst frequency)
+* `Key matrix`_:
+
+  * /S1, /S2, /SA, /SB, /SC: column input to console
+  * /K1-7: row output from console
+
+* Paddle:
+
+  * PD1-4: analog paddle output from console
+  * PE: tied to VDD if any paddle is used
+  * PE1-4: tied to VDD if the corresponding paddle is used
+
+* Gun:
+
+  * /GE: unclear, probably tied to Gnd if the gun is used
+  * /GP: unclear, probably trigger output from console
+  * /GX: unclear, probably photodiode output from console
+
+* AV outputs:
+
+  * VIDEO: luma/sync input to console, +1.5 to +3V
+  * B-Y: color input to console, 0 to +2V
+  * R-Y: color input to console, 0 to +2V
+  * CHROMA: color input to console, 0 to +5V
+  * REF: fixed reference input to console, +1V
+  * SOUND: sound input to console
 
 Key Matrix
 ----------
@@ -149,3 +217,5 @@ Key Matrix
      *
 
 .. [#jr] Not present on Cassette Vision Jr.
+
+.. include:: ../../epilog.rsti
