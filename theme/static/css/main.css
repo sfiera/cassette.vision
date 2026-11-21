@@ -87,6 +87,7 @@ img[src^="data:image/png"] {
 
 .figure {
     border: thin solid hsl(0, 0%, 40%);
+    background: white;
     border-radius: 0.125em;
     padding: 0.25em;
     margin: 0.25em;

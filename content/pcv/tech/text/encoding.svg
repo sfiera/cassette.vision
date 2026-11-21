@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+                     "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="370" viewBox="0 0 340 370">
+  <style>
+    path { stroke-width: 2px; stroke-linejoin: round; fill-rule: evenodd }
+    text { font: 13px monospace; text-anchor: middle; alignment-baseline: central }
+  </style>
+  <path d="M22,22h316v76h-316zM2,352h96v16h-96z" fill="rgba(0, 0, 255, 0.2)" stroke="rgb(0, 0, 255)"/>
+  <path d="M22,102h316v36h-240v20h-76zM122,352h96v16h-96z" fill="rgba(0, 127, 255, 0.2)" stroke="rgb(0, 127, 255)"/>
+  <path d="M22,162h80v-20h236v196h-316zM242,352h96v16h-96z" fill="rgba(255, 0, 0, 0.2)" stroke="rgb(255, 0, 0)"/>
+
+  <text x="30" y="10">x0</text>
+  <text x="50" y="10">x1</text>
+  <text x="70" y="10">x2</text>
+  <text x="90" y="10">x3</text>
+  <text x="110" y="10">x4</text>
+  <text x="130" y="10">x5</text>
+  <text x="150" y="10">x6</text>
+  <text x="170" y="10">x7</text>
+  <text x="190" y="10">x8</text>
+  <text x="210" y="10">x9</text>
+  <text x="230" y="10">xA</text>
+  <text x="250" y="10">xB</text>
+  <text x="270" y="10">xC</text>
+  <text x="290" y="10">xD</text>
+  <text x="310" y="10">xE</text>
+  <text x="330" y="10">xF</text>
+
+  <text x="10" y="30">0x</text>
+  <text x="10" y="50">1x</text>
+  <text x="10" y="70">2x</text>
+  <text x="10" y="90">3x</text>
+  <text x="10" y="110">4x</text>
+  <text x="10" y="130">5x</text>
+  <text x="10" y="150">6x</text>
+  <text x="10" y="170">7x</text>
+  <text x="10" y="190">8x</text>
+  <text x="10" y="210">9x</text>
+  <text x="10" y="230">Ax</text>
+  <text x="10" y="250">Bx</text>
+  <text x="10" y="270">Cx</text>
+  <text x="10" y="290">Dx</text>
+  <text x="10" y="310">Ex</text>
+  <text x="10" y="330">Fx</text>
+
+  <text x="30" y="30"> </text>
+  <text x="50" y="30">!</text>
+  <text x="70" y="30">"</text>
+  <text x="90" y="30">#</text>
+  <text x="110" y="30">$</text>
+  <text x="130" y="30">%</text>
+  <text x="150" y="30">&amp;</text>
+  <text x="170" y="30">'</text>
+  <text x="190" y="30">(</text>
+  <text x="210" y="30">)</text>
+  <text x="230" y="30">*</text>
+  <text x="250" y="30">+</text>
+  <text x="270" y="30">,</text>
+  <text x="290" y="30">-</text>
+  <text x="310" y="30">.</text>
+  <text x="330" y="30">/</text>
+
+  <text x="30" y="50">0</text>
+  <text x="50" y="50">1</text>
+  <text x="70" y="50">2</text>
+  <text x="90" y="50">3</text>
+  <text x="110" y="50">4</text>
+  <text x="130" y="50">5</text>
+  <text x="150" y="50">6</text>
+  <text x="170" y="50">7</text>
+  <text x="190" y="50">8</text>
+  <text x="210" y="50">9</text>
+  <text x="230" y="50">:</text>
+  <text x="250" y="50">;</text>
+  <text x="270" y="50">&lt;</text>
+  <text x="290" y="50">=</text>
+  <text x="310" y="50">&gt;</text>
+  <text x="330" y="50">?</text>
+
+  <text x="30" y="70">@</text>
+  <text x="50" y="70">A</text>
+  <text x="70" y="70">B</text>
+  <text x="90" y="70">C</text>
+  <text x="110" y="70">D</text>
+  <text x="130" y="70">E</text>
+  <text x="150" y="70">F</text>
+  <text x="170" y="70">G</text>
+  <text x="190" y="70">H</text>
+  <text x="210" y="70">I</text>
+  <text x="230" y="70">J</text>
+  <text x="250" y="70">K</text>
+  <text x="270" y="70">L</text>
+  <text x="290" y="70">M</text>
+  <text x="310" y="70">N</text>
+  <text x="330" y="70">O</text>
+
+  <text x="30" y="90">P</text>
+  <text x="50" y="90">Q</text>
+  <text x="70" y="90">R</text>
+  <text x="90" y="90">S</text>
+  <text x="110" y="90">T</text>
+  <text x="130" y="90">U</text>
+  <text x="150" y="90">V</text>
+  <text x="170" y="90">W</text>
+  <text x="190" y="90">X</text>
+  <text x="210" y="90">Y</text>
+  <text x="230" y="90">Z</text>
+  <text x="250" y="90">[</text>
+  <text x="270" y="90">¥</text>
+  <text x="290" y="90">]</text>
+  <text x="310" y="90">^</text>
+  <text x="330" y="90">_</text>
+
+  <text x="30" y="110">0</text>
+  <text x="50" y="110">1</text>
+  <text x="70" y="110">2</text>
+  <text x="90" y="110">3</text>
+  <text x="110" y="110">4</text>
+  <text x="130" y="110">5</text>
+  <text x="150" y="110">6</text>
+  <text x="170" y="110">7</text>
+  <text x="190" y="110">8</text>
+  <text x="210" y="110">9</text>
+  <text x="230" y="110">A</text>
+  <text x="250" y="110">B</text>
+  <text x="270" y="110">C</text>
+  <text x="290" y="110">D</text>
+  <text x="310" y="110">E</text>
+  <text x="330" y="110">F</text>
+
+  <text x="30" y="130">G</text>
+  <text x="50" y="130">H</text>
+  <text x="70" y="130">I</text>
+  <text x="90" y="130">J</text>
+  <text x="110" y="130">K</text>
+  <text x="130" y="130">L</text>
+  <text x="150" y="130">M</text>
+  <text x="170" y="130">N</text>
+  <text x="190" y="130">O</text>
+  <text x="210" y="130">P</text>
+  <text x="230" y="130">Q</text>
+  <text x="250" y="130">R</text>
+  <text x="270" y="130">S</text>
+  <text x="290" y="130">T</text>
+  <text x="310" y="130">U</text>
+  <text x="330" y="130">V</text>
+
+  <text x="30" y="150">W</text>
+  <text x="50" y="150">X</text>
+  <text x="70" y="150">Y</text>
+  <text x="90" y="150">Z</text>
+
+  <text x="50" y="360">5×7 font</text>
+  <text x="170" y="360">5×5 font</text>
+  <text x="290" y="360">User font</text>
+</svg>

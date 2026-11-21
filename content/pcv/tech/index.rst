@@ -8,3 +8,4 @@ Sections
 --------
 
 * `Pinouts <{filename}pinout.rst>`_
+* `Text <{filename}text/index.rst>`_
