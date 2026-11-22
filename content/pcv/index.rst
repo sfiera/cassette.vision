@@ -15,6 +15,7 @@ Sections
 * `Hardware <{filename}hard/index.rst>`_
 * `Software <{filename}soft/index.rst>`_
 * `Technology <{filename}tech/index.rst>`_
+* `Modifications <{filename}mod/index.rst>`_
 
 See Also
 --------
