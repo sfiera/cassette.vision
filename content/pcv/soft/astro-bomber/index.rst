@@ -14,4 +14,15 @@ Astro Bomber
 * Product Code: 36310
 * Genre: |STG|
 
+Images
+------
+
+.. container:: gallery
+
+   .. figure:: {static}preview.jpg
+      :alt: Preview
+      :target: {static}preview.jpg
+
+      `Preview <{static}preview.jpg>`_ from flyer included with console
+
 .. include:: ../../../epilog.rsti
