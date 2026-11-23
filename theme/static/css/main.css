@@ -71,6 +71,10 @@ p, ul, ol, table, .gallery, .gallery-small, dialog form {
     line-height: 1.25em;
 }
 
+ul ul, ul ol, ol ul, ol ol {
+    margin: 0;
+}
+
 #menu li {
     display: inline;
 }
