@@ -1,6 +1,9 @@
 Color
 =====
 
+:lang: en
+:slug: tech/color
+
 This table combines and reproduces information from Tetsuji Oguchi’s `777 to YUV System Design`_ document.
 
 .. _777 to YUV System Design: https://www.oguchi-rd.com/777/777%20to%20YUV/777%20to%20YUV%20System%20Design.pdf
