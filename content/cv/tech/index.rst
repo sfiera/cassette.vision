@@ -7,4 +7,5 @@ Technology
 Sections
 --------
 
+* `Color <{filename}color.rst>`_
 * `Pinouts <{filename}pinout.rst>`_
