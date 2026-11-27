@@ -217,6 +217,6 @@ Key Matrix
      * Push 1
      *
 
-.. [#jr] Not present on Cassette Vision Jr.
+.. [#jr] Not present on `Cassette Vision Jr. <{filename}/hard/jr.rst>`_
 
 .. include:: ../../epilog.rsti
